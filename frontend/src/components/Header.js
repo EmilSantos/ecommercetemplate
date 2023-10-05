@@ -9,7 +9,7 @@ function Header() {
       <Navbar expand="lg" bg="dark" variant="dark">
         <Container>
           <LinkContainer to='/'>
-            <Navbar.Brand>eShop</Navbar.Brand>
+            <Navbar.Brand>eCock</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="navbarScroll">
